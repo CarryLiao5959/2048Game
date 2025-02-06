@@ -8,7 +8,7 @@ CFLAGS = -Wall
 LDFLAGS = 
 
 # 可执行文件名
-EXECUTABLE = game2048
+EXECUTABLE = 2048
 
 # 头文件
 DEPS = matrix.h util.h
